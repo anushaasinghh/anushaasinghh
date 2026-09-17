@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 🎓 B.Tech ECE @ Heritage Institute of Technology, Kolkata — **9.16 CGPA**
-- 💼 Data Analyst Intern @ **Centre for National Security Studies** (Jun–Sep 2025)
+- 💼 Data Analyst Intern @ **Centre for National Security Studies** 
 - 🚀 Built & deployed **InsightPilot AI**, a full-stack AI SaaS app (live on Streamlit Cloud)
 - 🏆 SmartIndia Hackathon 2024 Finalist | Innovathon 3rd Place Winner
 - 🔍 I work across data engineering, AI product development, and PM lifecycle
